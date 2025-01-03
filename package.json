@@ -1,0 +1,16 @@
+{
+  "name": "nodecurso",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Utilizado para meu conhecimento",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch pratica"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodecurso": "file:"
+  }
+}
